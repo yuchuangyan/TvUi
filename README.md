@@ -1,4 +1,5 @@
-For Tv Controls Dev
-Author 751523479@qq.com
-blog icefrank.com blog.sina.com.cn/yanyuchuang
-更多信息欢迎联系我，微信号：yanfrank，个人微博：智能电视砖家
+For Tv Controls De
+智能电视app开发个控件集成：
+HorizontalListView为完全自定义ListView组件可丰富扩充。
+ScollingTextView可完全代理原生android的跑马灯效果，且文字
+滚动速度和间距都可以自己控制。v
