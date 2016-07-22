@@ -1,0 +1,22 @@
+<com.utility.ui.MAbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:clipChildren="false"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+    
+      <com.frank.customtvui.listview.CustomListView
+        android:id="@+id/html_page_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="400px"
+        android:layout_x="60px"
+        android:layout_y="300px" >
+    </com.frank.customtvui.listview.CustomListView>
+
+</com.utility.ui.MAbsoluteLayout>

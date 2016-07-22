@@ -1,0 +1,2 @@
+CHANGED,/Users/san/projects/CustomerTvControl/CustomTvUi/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/frank/customtvui/VerticalListActivity$override.class
+CHANGED,/Users/san/projects/CustomerTvControl/CustomTvUi/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

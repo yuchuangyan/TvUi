@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:3:5-35
+	android:versionName
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml
+		INJECTED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml
+		INJECTED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:8:9-35
+application
+ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:11:5-24:19
+	android:label
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:13:9-45
+activity#com.frank.customtvui.HorizontalListActivity
+ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:16:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/san/projects/CustomerTvControl/CustomTvUi/AndroidManifest.xml:21:27-74

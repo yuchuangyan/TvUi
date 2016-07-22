@@ -1,14 +1,14 @@
 package com.frank.customtvui;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.KeyEvent;
 
 import com.frank.customtvui.adapter.HtmlAdapter;
 import com.frank.customtvui.listview.CustomListView;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 自定义Tv Ui控件
@@ -36,6 +36,7 @@ public class HorizontalListActivity extends Activity {
 		mListView.setAdapter(mAdapter);
 		mListView.setChildsWidth(400);
 		mListView.setSelection(0);
+		mListView.setFocus(true);
     }
     
     @Override
